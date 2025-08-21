@@ -96,7 +96,7 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select master Branch > Next > Next > Finish.
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/Sailaja7695/Onlinebookstore```> Select master Branch > Next > Next > Finish.
 
 Step 2. a: Go inside ```src/main/resources > application.properties``` and update the value of database details as per your usage, like db.driver, db.host, db.username and db.password according to your installed mysql/postgresql admin user credentials.
 
@@ -112,9 +112,9 @@ Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > N
 
 Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
 
-Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
+Step 7: Default Username And Password For Admin Is "sailaja" And "sailaja"
 
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
+Step 8: The default Username And Password For User Is "Admin" And "Admin"
 
 ## FAQ
 **Question:1** Unable to Connect to Database?
