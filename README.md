@@ -124,7 +124,7 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
-<img width="941" alt=imgage src="C:\Users\P Sailaja\Downloads\Screenshot (344).png">
+<img width="941" alt=imgage src="">
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
 <img width="930" alt="image" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png">
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
