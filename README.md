@@ -1,9 +1,8 @@
-
-
-
-- User Login Credentials: (shashi/shashi)
-- Admin Login Credentials: (Admin/Admin)
-<hr>
+## Project Datailes
+-Java developer project
+- User Login Credentials: (Admin/Admin)
+- Admin Login Credentials: (sailaja/sailaja) )
+  
 
 ### About
 
@@ -53,10 +52,10 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - : Git 
 - : Java JDK 8+ 
 - : Eclipse EE
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench (optional) [https://www.youtube.com/watch?v=t79oCeTXHwg]
+- : Apache Maven 
+- : Tomcat v8.0+ 
+- : MySQL Server 
+- : MySQL Workbench (optional) 
 
 ### ================= Dummy Database Initialization =================
 
@@ -87,10 +86,8 @@ insert into books values('9781951204006','A Programmers Guide to Computer Scienc
 insert into books values('9780316204552','The Soul of a New Machine','Tracy Kidder',293,30);
 insert into books values('9780132778046','Effective Java','Joshua Bloch',368,21);
 insert into books values('9781484255995','Practical Rust Projects','Shing Lyu',257,15);
-insert into users values('demo','demo','Demo','User','Demo Home','42502216225','demo@gmail.com',2);
-insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
-
+insert into users values('sailaja','sailaja','sailaja','penagaluri','Karnataka','1234567890','sailaja@gmail.com',1);
+insert into users values('Admin','Admin','Miss.','Admin','Andhra Pradesh','8688507695','admin@gmail.com',2);
 commit;
 
 ```
@@ -138,4 +135,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Penagaluri sailaja</b>
